@@ -11,7 +11,7 @@
 This repository contains the code and documentation for a project that examines Amazon customer reviews using PySpark and AWS, employing a data lake approach. The project focuses on analyzing different datasets including Amazon watch reviews, book reviews, shoe reviews, wireless device reviews, and musical instrument reviews. The primary goal is to determine the ratio of trustworthy, real reviews to untrusted reviews and present the results through graphs.
 
 ---
-
+The Paper link : [Examining Amazon Customer Reviews Using PySpark And AWS: A Data Lake Approach](https://ieeexplore.ieee.org/document/10307845)
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -39,7 +39,7 @@ The project follows a data lake approach, leveraging AWS services such as Glue, 
 
 ## Dataset
 
-The project uses [Amazon Customer Reviews dataset](https://ieeexplore.ieee.org/document/10307845), which contains millions of reviews from various products. The dataset is stored in both TSV and Parquet formats. It includes metadata such as marketplace, customer ID, review ID, product ID, and more.
+The project uses Amazon Customer Reviews dataset, which contains millions of reviews from various products. The dataset is stored in both TSV and Parquet formats. It includes metadata such as marketplace, customer ID, review ID, product ID, and more.
 
 ---
 
